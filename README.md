@@ -15,13 +15,13 @@ Dictioanry App is web application that provides users with access to a dictionar
 
 ### Links
 
-- Solution URL: [https://github.com/ErysCode7/dictionary-app](https://github.com/webstar0411/dictionary-app)
+- Solution URL: [https://github.com/webstar0411/dictionary-app](https://github.com/webstar0411/dictionary-app)
 - Live Site URL: [https://dictionary-app-sandy.vercel.app/](https://dictionary-app-sandy.vercel.app/)
 
 1. Clone the repo
 
    ```sh
-   git clone git@github.com:ErysCode7/dictionary-app.git
+   git clone git@github.com:webstar0411/dictionary-app.git
    ```
 
 2. Install NPM packages
